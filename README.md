@@ -444,7 +444,6 @@ The full source code for these examples can be found on
 
 If you want to learn more, check out some of the following resources:
 
-* [Rangle.io's Angular2 Testing Cookbook](TBD)
 * [Angular2 testing APIs](https://angular.io/docs/ts/latest/api/testing/)
 * [Jasmine unit testing framework](http://jasmine.github.io/)
 
